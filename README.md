@@ -7,8 +7,9 @@ This is a jquery plugin to remove the whitespace from the beginning or end of a 
 
 - Insert jquery first  
 - Insert jquery.lr-trim.js  
-  ```js
-  <script type="text/js" src="./jquery.lr-trim.js"></script>
+
+  ```html
+   <script type="text/js" src="./jquery.lr-trim.js"></script>
   ```
 - Usage  
 
